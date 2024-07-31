@@ -4,7 +4,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WindowType;
 import org.openqa.selenium.chrome.ChromeDriver;
 
-import org.openqa.selenium.chrome.ChromeDriver;
+
 class Autom {
 
 	public static void main(String[] args) throws InterruptedException {
