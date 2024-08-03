@@ -15,6 +15,7 @@ class Autom {
 		driver.manage().window().maximize();
 		Thread.sleep(5000);
 		Thread.sleep(5000);
+		Thread.sleep(5000);
 		String pageTitle=driver.getTitle();
 		System.out.println(pageTitle);
 		Thread.sleep(5000);
