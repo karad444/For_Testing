@@ -21,6 +21,7 @@ public class Auto1 {
 		driver.get("https://www.facebook.com/");
 		Thread.sleep(5000);
 		Thread.sleep(5000);
+		Thread.sleep(5000);
 		//click on create new account button
 		//driver.findElement(By.linkText("Create new account")).click();
 		driver.findElement(By.partialLinkText("Create new")).click();
